@@ -1,0 +1,1 @@
+cout<<"salam"<<endl;
